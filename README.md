@@ -7,29 +7,31 @@ This repo is dedicated to uploading small beginner-friendly Python projects as I
 
 ## 📌 Completed Projects
 
-🎲 Dice Rolling Game (2/10)
+🎲 **Dice Rolling Game (2/10)**
 
-- Simulates rolling a dice (1–6).
+* Simulates rolling a dice (1–6).
+* Uses Python’s random module.
+* Beginner-friendly and extendable into small games.
 
-- Uses Python’s random module.
+🔢 **Number Guessing Game (3/10)**
 
-- Beginner-friendly and extendable into small games.
+* Computer randomly selects a number.
+* User guesses until correct, with hints (higher/lower).
+* Fun way to practice loops and conditionals.
 
-🔢 Number Guessing Game (3/10)
+✊✋✌️ **Rock, Paper, Scissors Game (3/10)**
 
-- Computer randomly selects a number.
+* Play against the computer.
+* Randomized computer choice.
+* Implements game logic with if-else conditions.
 
-- User guesses until correct, with hints (higher/lower).
+🔳 **QR Code Generator (3/10)**
 
-- Fun way to practice loops and conditionals.
+* Generates QR codes from text or links.
+* Uses Python’s `qrcode` library.
+* Saves QR codes as image files.
 
-✊✋✌️ Rock, Paper, Scissors Game (3/10)
-
-- Play against the computer.
-
-- Randomized computer choice.
-
-- Implements game logic with if-else conditions.
+---
 
 ## 🚀 Upcoming Projects
 
@@ -37,7 +39,6 @@ Here’s the roadmap of projects I’ll be adding step by step, along with their
 
 | Project                   | Difficulty |
 | ------------------------- | ---------- |
-| QR Code Generator         | 3/10       |
 | Currency Converter        | 3/10       |
 | Quiz Game                 | 3/10       |
 | Tic Tac Toe Game          | 4/10       |
@@ -76,3 +77,5 @@ Here’s the roadmap of projects I’ll be adding step by step, along with their
 ## 🙌 Contribution
 
 This is my personal learning journey. If you’d like to suggest improvements or new beginner project ideas, feel free to share!
+
+---
