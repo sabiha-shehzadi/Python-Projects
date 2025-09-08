@@ -31,6 +31,12 @@ This repo is dedicated to uploading small beginner-friendly Python projects as I
 * Uses Python’s `qrcode` library.
 * Saves QR codes as image files.
 
+💱 **Currency Converter (3/10)**
+
+* Converts between different currencies.
+* Uses predefined conversion rates.
+* Practical example of input handling and basic calculations.
+
 ---
 
 ## 🚀 Upcoming Projects
@@ -39,7 +45,6 @@ Here’s the roadmap of projects I’ll be adding step by step, along with their
 
 | Project                   | Difficulty |
 | ------------------------- | ---------- |
-| Currency Converter        | 3/10       |
 | Quiz Game                 | 3/10       |
 | Tic Tac Toe Game          | 4/10       |
 | Todo List Application     | 4/10       |
@@ -76,6 +81,5 @@ Here’s the roadmap of projects I’ll be adding step by step, along with their
 
 ## 🙌 Contribution
 
-This is my personal learning journey. If you’d like to suggest improvements or new beginner project ideas, feel free to share!
 
----
+Would you like me to also create a **small table** under *Completed Projects* (like you did for Upcoming Projects) so it looks more professional and easy to track progress?
